@@ -4,7 +4,7 @@
 
 ## 如何使用
 
-在Spring Cloud应用的配置文件中，设置eureka的地址为： http://eureka.fengwenyi.com/eureka/
+在Spring Cloud应用的配置文件中，设置eureka的地址为： http://eureka.fengwenyi.com/
 
 `yml`配置方式：
 
